@@ -5,3 +5,12 @@ this project steps:
 3. Convert assembly code to machine code using MARS assembler 
 4. Upload to the memory of the single-cycle processor,
 5. run the Verilog code of single-cycle processor on Modelsim and see the ISA execution
+
+#Pre-requistes
+Study chapter one and 7 from Digital Design and Computer Architecture, 2nd Edition
+
+#References:
+Digital Design and Computer Architecture, 2nd Edition by David Money Harris and Sarah L. Harris
+MARS Assembler and Simulator 
+https://courses.missouristate.edu/KenVollmar/MARS/
+
